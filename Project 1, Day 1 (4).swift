@@ -7,9 +7,6 @@
 //  Created by Gunther Hammel on 10/26/26.
 //
 
-/* ******SECTION TOPICS******
- two-way binding, TextField, Text */
-
 import SwiftUI
 
 /* TOPICS
@@ -17,8 +14,7 @@ import SwiftUI
  ForEach, trailing closure syntax */
 
 struct ContentView: View {
-    @State private var name = ""
-    /* makes an empty string to be used in code below, for important reasons. */
+    
     
     var body: some View {
         Form {
