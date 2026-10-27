@@ -20,7 +20,7 @@ https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/0e52fc6db42dcc9d0ac297
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/0e52fc6db42dcc9d0ac297cf91ab7833fbc82020/Project%201%2C%20Day%201%20(1).swift#L25
 
 
-//navigationTitle (and DisplayMode)
+// navigationTitle (and DisplayMode)
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/0e52fc6db42dcc9d0ac297cf91ab7833fbc82020/Project%201%2C%20Day%201%20(1).swift#L45
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/0e52fc6db42dcc9d0ac297cf91ab7833fbc82020/Project%201%2C%20Day%201%20(5).swift#L49
 
