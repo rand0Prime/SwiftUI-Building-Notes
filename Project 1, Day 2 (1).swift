@@ -84,7 +84,7 @@ struct ContentView: View {
                         }
                     }
                     .pickerStyle(.navigationLink)
-                    
+                    // tells Swift to go to a new screen and list available options for this picker
                 }
                 
                 Section("How much would you like to tip?") {
