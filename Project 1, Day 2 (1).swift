@@ -5,7 +5,7 @@
 //  WeSplit
 //
 //  Created by Gunther Hammel on 10/26/26.
-//
+
 
 import SwiftUI
 
