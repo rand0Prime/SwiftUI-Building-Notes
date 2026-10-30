@@ -27,9 +27,7 @@ struct ContentView: View {
         LinearGradient(stops: [
             .init(color: .purple, location: 0.20),
             .init(color: .red, location: 0.90)
-        ], startPoint: .top, endPoint: .bottom)
-       
-        
+        ], startPoint: .top, endPoint: .bottom) 
         /* this array makes a sharper contrast in the colors, beginning to
          mix into red 20% from the top of the screen, with red starting to
          take over around 90% from the top of the screen, and tells the gradient to
