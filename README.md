@@ -8,6 +8,8 @@ that if you are a beginner like me and are learning Swift that these notes
 are as helpful to you reading them as they have been to me writing them. 
 Alons-y! */
 
+*** The first entry for each topic will likely have an explanation (as I understood it at the time) of the topic in general.
+
 
 
 // Background (.background, .ultraThinMaterial)
