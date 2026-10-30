@@ -54,7 +54,7 @@ struct ContentView: View {
                 Spacer()
                 Text("Lower middle")
                 Spacer()
-            }
+            } //end of middle vertical stack
             
             Spacer()
             //adds a space between second and third VStacks
@@ -67,12 +67,12 @@ struct ContentView: View {
                 Spacer()
                 Text("Lower Right")
                 Spacer()
-            }
+            } //end of right vertical stack
             
             Spacer()
             //adds room to the right of the horizontal stack
-        }
-        // end of middle row of the grid
+        } // end of HStack
+       
         
     }
 }
