@@ -5,7 +5,7 @@
 //  Project 2
 //
 //  Created by Gunny on 10/30/26.
-//
+
 
 /* Topic: ZStack, colors, frames, .background, background custom colors, .ignoreSafeArea, padding, ultraThinMaterial */
 
