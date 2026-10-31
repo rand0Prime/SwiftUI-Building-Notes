@@ -7,7 +7,7 @@
 
 /* Topic: buttons, buttonStyle, destructive, bordered, custom buttons, images */
 
-// code in notes refer to this lesson: https://www.hackingwithswift.com/books/ios-swiftui/gradients
+// code in notes refer to this lesson: https://www.hackingwithswift.com/books/ios-swiftui/buttons-and-images
 
 import SwiftUI
 
