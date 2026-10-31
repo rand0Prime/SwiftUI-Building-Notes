@@ -11,6 +11,13 @@ Alons-y! */
 *** The first entry for each topic will likely have an explanation (as I understood it at the time) of the topic in general.
 
 
+// Alerts (message:)
+https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/cf0109abea7edd90d55fb4855f7c299d44304f48/Project%202%2C%20Day%201%20(5).swift#L15
+https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/cf0109abea7edd90d55fb4855f7c299d44304f48/Project%202%2C%20Day%201%20(5).swift#L19
+https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/cf0109abea7edd90d55fb4855f7c299d44304f48/Project%202%2C%20Day%201%20(5).swift#L25
+https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/cf0109abea7edd90d55fb4855f7c299d44304f48/Project%202%2C%20Day%201%20(5).swift#L30
+https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/cf0109abea7edd90d55fb4855f7c299d44304f48/Project%202%2C%20Day%201%20(5).swift#L40
+
 
 // Background (.background, .ultraThinMaterial)
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/1ec5f3a43f2a11266aad747c485ac522b705330f/Project%202%2C%20Day%201%20(2).swift#L39
@@ -18,7 +25,7 @@ https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/1ec5f3a43f2a11266aad74
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/92470093421930ccfa7e7c8d7787240c6f0b1f13/Project%202%2C%20Day%201%20(3).swift#L50
 
 
-// Button (buttonStyle, tint, action:, } label {, .destructive, Label)
+// Button (buttonStyle, tint, action:, } label {, .destructive, Label, .cancel)
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/0e52fc6db42dcc9d0ac297cf91ab7833fbc82020/Project%201%2C%20Day%201%20(2)swift.swift#L25
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/4a10684a82ee68f2e1ebbb090097d1aa20f220d3/Project%201%2C%20Day%202%20(1).swift#L115
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/841a42c318dc11254629ec073690417611b62299/Project%202%2C%20Day%201%20(4).swift#L17
@@ -30,6 +37,7 @@ https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/841a42c318dc11254629ec
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/841a42c318dc11254629ec073690417611b62299/Project%202%2C%20Day%201%20(4).swift#L84
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/841a42c318dc11254629ec073690417611b62299/Project%202%2C%20Day%201%20(4).swift#L92
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/841a42c318dc11254629ec073690417611b62299/Project%202%2C%20Day%201%20(4).swift#L99
+https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/cf0109abea7edd90d55fb4855f7c299d44304f48/Project%202%2C%20Day%201%20(5).swift#L36
 
 
 // Color (color.secondary, custom colors)
@@ -142,6 +150,7 @@ https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/0e52fc6db42dcc9d0ac297
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/0e52fc6db42dcc9d0ac297cf91ab7833fbc82020/Project%201%2C%20Day%201%20(5).swift#L21
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/4a10684a82ee68f2e1ebbb090097d1aa20f220d3/Project%201%2C%20Day%202%20(1).swift#L19
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/7934c97b7ecde295b2ce14eb2d2990c4117bcd9a/Project%202%2C%20Day%201.swift#L17
+https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/cf0109abea7edd90d55fb4855f7c299d44304f48/Project%202%2C%20Day%201%20(5).swift#L15
 
 // Switch
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/7934c97b7ecde295b2ce14eb2d2990c4117bcd9a/Project%202%2C%20Day%201.swift#L74
