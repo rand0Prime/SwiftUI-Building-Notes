@@ -8,7 +8,7 @@ that if you are a beginner like me and are learning Swift that these notes
 are as helpful to you reading them as they have been to me writing them. 
 Alons-y! */
 
-*** The first entry for each topic will likely have an explanation (as I understood it at the time) of the topic in general.
+*** The first entry for each topic will likely have an explanation (as I understood it at the time) of the topic in general, and later entries will likely have more intricate or complicated code.
 
 
 // Alerts (message:)
@@ -42,6 +42,7 @@ https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/841a42c318dc11254629ec
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/cf0109abea7edd90d55fb4855f7c299d44304f48/Project%202%2C%20Day%201%20(5).swift#L36
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/e0b64e51c9befc7cff891d2b314d4c16672489dc/Project%202%2C%20Day%202.swift#L111
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/e0b64e51c9befc7cff891d2b314d4c16672489dc/Project%202%2C%20Day%202.swift#L67-L71
+https://github.com/rand0Prime/SwiftUI-Practice-Problems/blob/4dc36e8a177a74de5de54032c5af191f399776cf/Character%20Creator%20(Practice%20App)/Character%20Creator%20(Practice%20App)/ContentView.swift#L73-L87
 
 
 // Color (color.secondary, custom colors)
@@ -140,6 +141,7 @@ https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/0e52fc6db42dcc9d0ac297
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/4a10684a82ee68f2e1ebbb090097d1aa20f220d3/Project%201%2C%20Day%202%20(1).swift#L76
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/4a10684a82ee68f2e1ebbb090097d1aa20f220d3/Project%201%2C%20Day%202%20(1).swift#L86
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/7934c97b7ecde295b2ce14eb2d2990c4117bcd9a/Project%202%2C%20Day%201.swift#L28
+https://github.com/rand0Prime/SwiftUI-Practice-Problems/blob/4dc36e8a177a74de5de54032c5af191f399776cf/Character%20Creator%20(Practice%20App)/Character%20Creator%20(Practice%20App)/ContentView.swift#L100-L109
 
 
 // \.self
@@ -179,6 +181,7 @@ https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/e0b64e51c9befc7cff891d
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/e0b64e51c9befc7cff891d2b314d4c16672489dc/Project%202%2C%20Day%202.swift#L53
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/e0b64e51c9befc7cff891d2b314d4c16672489dc/Project%202%2C%20Day%202.swift#L58
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/e0b64e51c9befc7cff891d2b314d4c16672489dc/Project%202%2C%20Day%202.swift#L98
+https://github.com/rand0Prime/SwiftUI-Practice-Problems/blob/4dc36e8a177a74de5de54032c5af191f399776cf/Character%20Creator%20(Practice%20App)/Character%20Creator%20(Practice%20App)/ContentView.swift#L64
 
 // .toolbar
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/4a10684a82ee68f2e1ebbb090097d1aa20f220d3/Project%201%2C%20Day%202%20(1).swift#L113
@@ -188,6 +191,7 @@ https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/7934c97b7ecde295b2ce14
 // VStack
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/fbc7eacccb25bb2381f4d3254aa2e45decb0ce3c/Project%202%2C%20Day%201%20(1).swift#L23
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/97deff25c32c96f12352b818369b18afef74c195/Project%202%2C%20Day%201%20(3).swift#L18
+https://github.com/rand0Prime/SwiftUI-Practice-Problems/blob/4dc36e8a177a74de5de54032c5af191f399776cf/Character%20Creator%20(Practice%20App)/Character%20Creator%20(Practice%20App)/ContentView.swift#L89-L94
 
 
 // ZStack
