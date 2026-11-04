@@ -15,27 +15,34 @@ https://ko-fi.com/guntherhammel
 
 
 
-[Alerts, message:](#Alerts,-message:)
-[padding](#padding)
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-
+[Alerts, message:](#alerts-message)
+[Background (.background, .ultraThinMaterial)](#background-background-ultrathinmaterial)
+[Button (buttonStyle, tint, action:, } label {, .destructive, Label, .cancel)](#button-buttonstyle-tint-action--label--destructive-label-cancel)
+[Color (color.secondary, custom colors)](#color-colorsecondary-custom-colors)
+[@FocusState (.isFocused)](#focusstate-isfocused)
+[ForEach](#foreach)
+[.foregroundStyle](#foregroundstyle)
+[Form](#form)
+[.frame](#frame)
+[Gradients (Linear, stops:, radial, angular/conical](#gradients-linear-stops-radial-angularconical)
+[HStack](#hstack)
+[Image (systemName:, decorative, resizable, scaledToFit, .clipShape, .shadow)](#image-systemname-decorative-resizable-scaledtofit-clipshape-shadow)
+[.ignoreSafeArea](#ignoresafearea)
+[.keyboardType](#keyboardtype)
+[Navigation Stack](#navigationstack)
+[navigationTitle (and DisplayMode)](#navigationtitle-and-displaymode)
+[.padding](#padding)
+[Preview](#preview)
+[Picker (.pickerStyle)](#picker-pickerstyle)
+[\.self](#self)
+[Section (and header text)](#section-and-header-text)
+[Spacer](#spacer)
+[@State](#state)
+[Switch](#switch)
+[TextField and Text (.font, .subheadline, .semibold)](#textfield-and-text-font-subheadline-semibold)
+[.toolbar](#toolbar)
+[VStack](#vstack)
+[ZStack](#zstack)
 
 
 # Alerts, message:
@@ -155,7 +162,7 @@ https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/0e52fc6db42dcc9d0ac297
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/4a10684a82ee68f2e1ebbb090097d1aa20f220d3/Project%201%2C%20Day%202%20(1).swift#L110-L112
 
 
-# padding
+# .padding
 
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/1ec5f3a43f2a11266aad747c485ac522b705330f/Project%202%2C%20Day%201%20(2).swift#L37-L38
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/e0b64e51c9befc7cff891d2b314d4c16672489dc/Project%202%2C%20Day%202.swift#L84-L85
@@ -180,7 +187,7 @@ https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/14e785c2812b88b94ac51b
 
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/0e52fc6db42dcc9d0ac297cf91ab7833fbc82020/Project%201%2C%20Day%201%20(5).swift#L37-L40
 
-# //(Section (and header text)
+# Section (and header text)
 
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/0e52fc6db42dcc9d0ac297cf91ab7833fbc82020/Project%201%2C%20Day%201%20(1).swift#L25-L26
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/4a10684a82ee68f2e1ebbb090097d1aa20f220d3/Project%201%2C%20Day%202%20(1).swift#L90-L92
