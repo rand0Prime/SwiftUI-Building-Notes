@@ -8,7 +8,7 @@ that if you are a beginner like me and are learning Swift that these notes
 are as helpful to you reading them as they have been to me writing them. 
 Alons-y! */
 
-I make this available for free to all, but if you wish to express appreciation you can do so here:
+If you find this helpful, send me a cup of tea. :)
 https://ko-fi.com/guntherhammel
 
 *** The first entry for each topic will likely have an explanation (as I understood it at the time) of the topic in general, and later entries will likely have more intricate or complicated code.
