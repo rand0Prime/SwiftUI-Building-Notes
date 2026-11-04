@@ -16,7 +16,7 @@ https://ko-fi.com/guntherhammel
 
 
 [Alerts, message:](Alerts,-message:)
-[padding](##padding)
+[padding](#padding)
 []
 []
 []
@@ -155,7 +155,7 @@ https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/0e52fc6db42dcc9d0ac297
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/4a10684a82ee68f2e1ebbb090097d1aa20f220d3/Project%201%2C%20Day%202%20(1).swift#L110-L112
 
 
-## padding
+# padding
 
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/1ec5f3a43f2a11266aad747c485ac522b705330f/Project%202%2C%20Day%201%20(2).swift#L37-L38
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/e0b64e51c9befc7cff891d2b314d4c16672489dc/Project%202%2C%20Day%202.swift#L84-L85
