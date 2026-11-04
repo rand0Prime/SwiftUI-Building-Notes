@@ -7,7 +7,7 @@
 //  Created by Gunther Hammel on 10/26/26.
 //
 
-/* ******SECTION TOPICS******
+/* ******SECTION TOPICS****** 
  two-way binding, TextField, Text */
 
 import SwiftUI
