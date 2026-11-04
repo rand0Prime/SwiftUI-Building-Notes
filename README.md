@@ -87,13 +87,13 @@ https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/e0b64e51c9befc7cff891d
 
 
 // Gradients (Linear, stops:, radial, angular/conical
-https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/97deff25c32c96f12352b818369b18afef74c195/Project%202%2C%20Day%201%20(3).swift#L18
-https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/97deff25c32c96f12352b818369b18afef74c195/Project%202%2C%20Day%201%20(3).swift#L23
-https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/92470093421930ccfa7e7c8d7787240c6f0b1f13/Project%202%2C%20Day%201%20(3).swift#L27
-https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/92470093421930ccfa7e7c8d7787240c6f0b1f13/Project%202%2C%20Day%201%20(3).swift#L36
-https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/92470093421930ccfa7e7c8d7787240c6f0b1f13/Project%202%2C%20Day%201%20(3).swift#L40
-https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/841a42c318dc11254629ec073690417611b62299/Project%202%2C%20Day%201%20(4).swift#L99
-https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/e0b64e51c9befc7cff891d2b314d4c16672489dc/Project%202%2C%20Day%202.swift#L28
+
+https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/97deff25c32c96f12352b818369b18afef74c195/Project%202%2C%20Day%201%20(3).swift#L23-L25
+https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/97deff25c32c96f12352b818369b18afef74c195/Project%202%2C%20Day%201%20(3).swift#L27-L36
+https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/97deff25c32c96f12352b818369b18afef74c195/Project%202%2C%20Day%201%20(3).swift#L38-L40
+https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/97deff25c32c96f12352b818369b18afef74c195/Project%202%2C%20Day%201%20(3).swift#L42-L45
+https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/841a42c318dc11254629ec073690417611b62299/Project%202%2C%20Day%201%20(4).swift#L99-L100
+https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/e0b64e51c9befc7cff891d2b314d4c16672489dc/Project%202%2C%20Day%202.swift#L27-L35
 
 
 // HStack
