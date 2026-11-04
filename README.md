@@ -38,7 +38,7 @@ https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/841a42c318dc11254629ec
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/841a42c318dc11254629ec073690417611b62299/Project%202%2C%20Day%201%20(4).swift#L84-L87
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/841a42c318dc11254629ec073690417611b62299/Project%202%2C%20Day%201%20(4).swift#L89-L101
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/cf0109abea7edd90d55fb4855f7c299d44304f48/Project%202%2C%20Day%201%20(5).swift#L19-L43
-https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/e0b64e51c9befc7cff891d2b314d4c16672489dc/Project%202%2C%20Day%202.swift#L111
+https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/e0b64e51c9befc7cff891d2b314d4c16672489dc/Project%202%2C%20Day%202.swift#L111-L117
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/e0b64e51c9befc7cff891d2b314d4c16672489dc/Project%202%2C%20Day%202.swift#L67-L71
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/975c2615bd8e09c63e67a2dc0280064404b7ab8d/SwiftUI%20Practice%20Problems/Character%20Creator.swift#L73-L88
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/14e785c2812b88b94ac51bd8394eaa5d68d9fd06/SwiftUI%20Practice%20Problems/Dice%20Rolls%20and%20Stat%20Checks.swift#L102-L127
