@@ -70,15 +70,13 @@ https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/7934c97b7ecde295b2ce14
 
 // .foregroundStyle
 
-
-https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/1ec5f3a43f2a11266aad747c485ac522b705330f/Project%202%2C%20Day%201%20(2).swift#L35
-https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/92470093421930ccfa7e7c8d7787240c6f0b1f13/Project%202%2C%20Day%201%20(3).swift#L48
-https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/841a42c318dc11254629ec073690417611b62299/Project%202%2C%20Day%201%20(4).swift#L44
+https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/1ec5f3a43f2a11266aad747c485ac522b705330f/Project%202%2C%20Day%201%20(2).swift#L35-L36
+https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/92470093421930ccfa7e7c8d7787240c6f0b1f13/Project%202%2C%20Day%201%20(3).swift#L48-L49
+https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/841a42c318dc11254629ec073690417611b62299/Project%202%2C%20Day%201%20(4).swift#L44-L46
 
 
 // Form
-https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/0e52fc6db42dcc9d0ac297cf91ab7833fbc82020/Project%201%2C%20Day%201%20(1).swift#L22
-
+https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/0e52fc6db42dcc9d0ac297cf91ab7833fbc82020/Project%201%2C%20Day%201%20(1).swift#L22-L23
 
 // .frame
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/1ec5f3a43f2a11266aad747c485ac522b705330f/Project%202%2C%20Day%201%20(2).swift#L31
