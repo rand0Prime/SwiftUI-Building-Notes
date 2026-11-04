@@ -139,15 +139,15 @@ https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/e0b64e51c9befc7cff891d
 
 // Preview
 
-
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/0e52fc6db42dcc9d0ac297cf91ab7833fbc82020/Project%201%2C%20Day%201%20(1).swift#L55-L57
+
 
 // Picker (.pickerStyle)
 
-https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/0e52fc6db42dcc9d0ac297cf91ab7833fbc82020/Project%201%2C%20Day%201%20(5).swift#L30
-https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/4a10684a82ee68f2e1ebbb090097d1aa20f220d3/Project%201%2C%20Day%202%20(1).swift#L76
-https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/4a10684a82ee68f2e1ebbb090097d1aa20f220d3/Project%201%2C%20Day%202%20(1).swift#L86
-https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/7934c97b7ecde295b2ce14eb2d2990c4117bcd9a/Project%202%2C%20Day%201.swift#L28
+https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/0e52fc6db42dcc9d0ac297cf91ab7833fbc82020/Project%201%2C%20Day%201%20(5).swift#L30-L36
+https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/4a10684a82ee68f2e1ebbb090097d1aa20f220d3/Project%201%2C%20Day%202%20(1).swift#L76-L86
+https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/7934c97b7ecde295b2ce14eb2d2990c4117bcd9a/Project%202%2C%20Day%201.swift#L28-L29
+https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/7934c97b7ecde295b2ce14eb2d2990c4117bcd9a/Project%202%2C%20Day%201.swift#L46-L50
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/975c2615bd8e09c63e67a2dc0280064404b7ab8d/SwiftUI%20Practice%20Problems/Character%20Creator.swift#L100-L109
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/14e785c2812b88b94ac51bd8394eaa5d68d9fd06/SwiftUI%20Practice%20Problems/Dice%20Rolls%20and%20Stat%20Checks.swift#L61-L66
 
