@@ -52,12 +52,11 @@ https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/1ec5f3a43f2a11266aad74
 
 // @FocusState (.isFocused)
 
-
-https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/4a10684a82ee68f2e1ebbb090097d1aa20f220d3/Project%201%2C%20Day%202%20(1).swift#L27
-https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/4a10684a82ee68f2e1ebbb090097d1aa20f220d3/Project%201%2C%20Day%202%20(1).swift#L57
-https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/4a10684a82ee68f2e1ebbb090097d1aa20f220d3/Project%201%2C%20Day%202%20(1).swift#L114
-https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/7934c97b7ecde295b2ce14eb2d2990c4117bcd9a/Project%202%2C%20Day%201.swift#L18
-https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/7934c97b7ecde295b2ce14eb2d2990c4117bcd9a/Project%202%2C%20Day%201.swift#L42
+https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/4a10684a82ee68f2e1ebbb090097d1aa20f220d3/Project%201%2C%20Day%202%20(1).swift#L27-L30
+https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/4a10684a82ee68f2e1ebbb090097d1aa20f220d3/Project%201%2C%20Day%202%20(1).swift#L57-L74
+https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/4a10684a82ee68f2e1ebbb090097d1aa20f220d3/Project%201%2C%20Day%202%20(1).swift#L114-L122
+https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/7934c97b7ecde295b2ce14eb2d2990c4117bcd9a/Project%202%2C%20Day%201.swift#L18-L19
+https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/7934c97b7ecde295b2ce14eb2d2990c4117bcd9a/Project%202%2C%20Day%201.swift#L42-L43
 
 
 // ForEach
