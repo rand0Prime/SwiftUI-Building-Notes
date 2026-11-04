@@ -23,8 +23,8 @@ https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/14e785c2812b88b94ac51b
 // Background (.background, .ultraThinMaterial)
 
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/1ec5f3a43f2a11266aad747c485ac522b705330f/Project%202%2C%20Day%201%20(2).swift#L39-L46
-https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/92470093421930ccfa7e7c8d7787240c6f0b1f13/Project%202%2C%20Day%201%20(3).swift#L50
-https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/e0b64e51c9befc7cff891d2b314d4c16672489dc/Project%202%2C%20Day%202.swift#L86
+https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/92470093421930ccfa7e7c8d7787240c6f0b1f13/Project%202%2C%20Day%201%20(3).swift#L50-L52
+https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/e0b64e51c9befc7cff891d2b314d4c16672489dc/Project%202%2C%20Day%202.swift#L86-L87
 
 
 // Button (buttonStyle, tint, action:, } label {, .destructive, Label, .cancel)
