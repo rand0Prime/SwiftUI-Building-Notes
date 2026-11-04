@@ -11,7 +11,7 @@ import SwiftUI
 
 /* TOPICS
  
- ForEach, trailing closure syntax */
+ ForEach, trailing closure syntax */ 
 
 struct ContentView: View {
     
