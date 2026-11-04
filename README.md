@@ -42,7 +42,7 @@ https://ko-fi.com/guntherhammel
 
 [.keyboardType](#keyboardtype)
 
-[Navigation Stack](#navigationstack)
+[Navigation Stack](#navigation-stack)
 
 [navigationTitle (and DisplayMode)](#navigationtitle-and-displaymode)
 
