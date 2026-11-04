@@ -97,17 +97,14 @@ https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/e0b64e51c9befc7cff891d
 
 
 // HStack
-https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/fbc7eacccb25bb2381f4d3254aa2e45decb0ce3c/Project%202%2C%20Day%201%20(1).swift#L18
-
+https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/fbc7eacccb25bb2381f4d3254aa2e45decb0ce3c/Project%202%2C%20Day%201%20(1).swift#L18-L31
 
 // Image (systemName:, decorative, resizable, scaledToFit, .clipShape, .shadow)
-https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/841a42c318dc11254629ec073690417611b62299/Project%202%2C%20Day%201%20(4).swift#L68
-https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/841a42c318dc11254629ec073690417611b62299/Project%202%2C%20Day%201%20(4).swift#L74
-https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/841a42c318dc11254629ec073690417611b62299/Project%202%2C%20Day%201%20(4).swift#L77
-https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/841a42c318dc11254629ec073690417611b62299/Project%202%2C%20Day%201%20(4).swift#L79
-https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/e0b64e51c9befc7cff891d2b314d4c16672489dc/Project%202%2C%20Day%202.swift#L75
-https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/e0b64e51c9befc7cff891d2b314d4c16672489dc/Project%202%2C%20Day%202.swift#L77
-https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/e0b64e51c9befc7cff891d2b314d4c16672489dc/Project%202%2C%20Day%202.swift#L88
+
+https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/841a42c318dc11254629ec073690417611b62299/Project%202%2C%20Day%201%20(4).swift#L68-L72
+https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/841a42c318dc11254629ec073690417611b62299/Project%202%2C%20Day%201%20(4).swift#L74-L80
+https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/e0b64e51c9befc7cff891d2b314d4c16672489dc/Project%202%2C%20Day%202.swift#L73-L78
+https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/e0b64e51c9befc7cff891d2b314d4c16672489dc/Project%202%2C%20Day%202.swift#L88-L89
 
 
 // .ignoreSafeArea
