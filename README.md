@@ -18,31 +18,56 @@ https://ko-fi.com/guntherhammel
 [Alerts, message:](#alerts-message)
 
 [Background (.background, .ultraThinMaterial)](#background-background-ultrathinmaterial)
+
 [Button (buttonStyle, tint, action:, } label {, .destructive, Label, .cancel)](#button-buttonstyle-tint-action--label--destructive-label-cancel)
+
 [Color (color.secondary, custom colors)](#color-colorsecondary-custom-colors)
+
 [@FocusState (.isFocused)](#focusstate-isfocused)
+
 [ForEach](#foreach)
+
 [.foregroundStyle](#foregroundstyle)
+
 [Form](#form)
+
 [.frame](#frame)
+
 [Gradients (Linear, stops:, radial, angular/conical](#gradients-linear-stops-radial-angularconical)
 [HStack](#hstack)
+
 [Image (systemName:, decorative, resizable, scaledToFit, .clipShape, .shadow)](#image-systemname-decorative-resizable-scaledtofit-clipshape-shadow)
+
 [.ignoreSafeArea](#ignoresafearea)
+
 [.keyboardType](#keyboardtype)
+
 [Navigation Stack](#navigationstack)
+
 [navigationTitle (and DisplayMode)](#navigationtitle-and-displaymode)
+
 [.padding](#padding)
+
 [Preview](#preview)
+
 [Picker (.pickerStyle)](#picker-pickerstyle)
+
 [\.self](#self)
+
 [Section (and header text)](#section-and-header-text)
+
 [Spacer](#spacer)
+
 [@State](#state)
+
 [Switch](#switch)
+
 [TextField and Text (.font, .subheadline, .semibold)](#textfield-and-text-font-subheadline-semibold)
+
 [.toolbar](#toolbar)
+
 [VStack](#vstack)
+
 [ZStack](#zstack)
 
 
