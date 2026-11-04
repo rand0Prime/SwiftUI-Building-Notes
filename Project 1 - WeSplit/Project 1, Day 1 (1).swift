@@ -13,7 +13,7 @@
 
 import SwiftUI
 
-struct ContentView: View {
+struct ContentView: View { 
     /* ContentView is the main struct that draws things to the screen */
     var body: some View {
         NavigationStack {
