@@ -46,7 +46,6 @@ https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/14e785c2812b88b94ac51b
 
 // Color (color.secondary, custom colors)
 
-
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/1ec5f3a43f2a11266aad747c485ac522b705330f/Project%202%2C%20Day%201%20(2).swift#L18-L30
 
 
@@ -76,7 +75,9 @@ https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/841a42c318dc11254629ec
 
 
 // Form
+
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/0e52fc6db42dcc9d0ac297cf91ab7833fbc82020/Project%201%2C%20Day%201%20(1).swift#L22-L23
+
 
 // .frame
 
@@ -97,6 +98,7 @@ https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/e0b64e51c9befc7cff891d
 
 
 // HStack
+
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/fbc7eacccb25bb2381f4d3254aa2e45decb0ce3c/Project%202%2C%20Day%201%20(1).swift#L18-L31
 
 // Image (systemName:, decorative, resizable, scaledToFit, .clipShape, .shadow)
@@ -108,17 +110,19 @@ https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/e0b64e51c9befc7cff891d
 
 
 // .ignoreSafeArea
-https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/1ec5f3a43f2a11266aad747c485ac522b705330f/Project%202%2C%20Day%201%20(2).swift#L48
 
+https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/1ec5f3a43f2a11266aad747c485ac522b705330f/Project%202%2C%20Day%201%20(2).swift#L47-L53
 
 // .keyboardType
-https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/4a10684a82ee68f2e1ebbb090097d1aa20f220d3/Project%201%2C%20Day%202%20(1).swift#L56
-https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/7934c97b7ecde295b2ce14eb2d2990c4117bcd9a/Project%202%2C%20Day%201.swift#L40
+
+https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/4a10684a82ee68f2e1ebbb090097d1aa20f220d3/Project%201%2C%20Day%202%20(1).swift#L56-L73
+https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/7934c97b7ecde295b2ce14eb2d2990c4117bcd9a/Project%202%2C%20Day%201.swift#L40-L41
 
 
 // Navigation Stack
-https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/0e52fc6db42dcc9d0ac297cf91ab7833fbc82020/Project%201%2C%20Day%201%20(1).swift#L19
-https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/4a10684a82ee68f2e1ebbb090097d1aa20f220d3/Project%201%2C%20Day%202%20(1).swift#L49
+
+https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/0e52fc6db42dcc9d0ac297cf91ab7833fbc82020/Project%201%2C%20Day%201%20(1).swift#L19-L21
+https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/4a10684a82ee68f2e1ebbb090097d1aa20f220d3/Project%201%2C%20Day%202%20(1).swift#L49-L51
 
 
 // navigationTitle (and DisplayMode)
