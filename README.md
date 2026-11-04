@@ -28,18 +28,16 @@ https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/e0b64e51c9befc7cff891d
 
 
 // Button (buttonStyle, tint, action:, } label {, .destructive, Label, .cancel)
-https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/0e52fc6db42dcc9d0ac297cf91ab7833fbc82020/Project%201%2C%20Day%201%20(2)swift.swift#L25
-https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/4a10684a82ee68f2e1ebbb090097d1aa20f220d3/Project%201%2C%20Day%202%20(1).swift#L115
-https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/841a42c318dc11254629ec073690417611b62299/Project%202%2C%20Day%201%20(4).swift#L17
-https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/841a42c318dc11254629ec073690417611b62299/Project%202%2C%20Day%201%20(4).swift#L27
-https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/841a42c318dc11254629ec073690417611b62299/Project%202%2C%20Day%201%20(4).swift#L42
-https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/841a42c318dc11254629ec073690417611b62299/Project%202%2C%20Day%201%20(4).swift#L43
-https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/841a42c318dc11254629ec073690417611b62299/Project%202%2C%20Day%201%20(4).swift#L49
-https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/841a42c318dc11254629ec073690417611b62299/Project%202%2C%20Day%201%20(4).swift#L56
-https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/841a42c318dc11254629ec073690417611b62299/Project%202%2C%20Day%201%20(4).swift#L84
-https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/841a42c318dc11254629ec073690417611b62299/Project%202%2C%20Day%201%20(4).swift#L92
-https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/841a42c318dc11254629ec073690417611b62299/Project%202%2C%20Day%201%20(4).swift#L99
-https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/cf0109abea7edd90d55fb4855f7c299d44304f48/Project%202%2C%20Day%201%20(5).swift#L36
+
+https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/0e52fc6db42dcc9d0ac297cf91ab7833fbc82020/Project%201%2C%20Day%201%20(2)swift.swift#L25-L29
+https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/4a10684a82ee68f2e1ebbb090097d1aa20f220d3/Project%201%2C%20Day%202%20(1).swift#L115-L121
+https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/841a42c318dc11254629ec073690417611b62299/Project%202%2C%20Day%201%20(4).swift#L27-L33
+https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/841a42c318dc11254629ec073690417611b62299/Project%202%2C%20Day%201%20(4).swift#L41-L46
+https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/841a42c318dc11254629ec073690417611b62299/Project%202%2C%20Day%201%20(4).swift#L48-L50
+https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/841a42c318dc11254629ec073690417611b62299/Project%202%2C%20Day%201%20(4).swift#L52-L66
+https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/841a42c318dc11254629ec073690417611b62299/Project%202%2C%20Day%201%20(4).swift#L84-L87
+https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/841a42c318dc11254629ec073690417611b62299/Project%202%2C%20Day%201%20(4).swift#L89-L101
+https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/cf0109abea7edd90d55fb4855f7c299d44304f48/Project%202%2C%20Day%201%20(5).swift#L19-L43
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/e0b64e51c9befc7cff891d2b314d4c16672489dc/Project%202%2C%20Day%202.swift#L111
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/e0b64e51c9befc7cff891d2b314d4c16672489dc/Project%202%2C%20Day%202.swift#L67-L71
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/975c2615bd8e09c63e67a2dc0280064404b7ab8d/SwiftUI%20Practice%20Problems/Character%20Creator.swift#L73-L88
