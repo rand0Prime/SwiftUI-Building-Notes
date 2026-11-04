@@ -11,7 +11,7 @@ import SwiftUI
 
 /* TOPICS
  
- State, id: \.self, ForEach, Picker, Text, trailing closure */
+ State, id: \.self, ForEach, Picker, Text, trailing closure */ 
 
 struct ContentView: View {
     let members = ["Luthor", "Mavvius", "Nel"]
