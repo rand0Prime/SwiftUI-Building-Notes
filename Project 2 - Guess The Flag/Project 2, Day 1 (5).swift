@@ -9,7 +9,7 @@
 
 // code in notes refer to this lesson: https://www.hackingwithswift.com/books/ios-swiftui/showing-alert-messages
 
-import SwiftUI
+import SwiftUI 
 
 struct ContentView: View {
     @State private var displayingAlert = false
