@@ -8,7 +8,7 @@
 //
 
 import SwiftUI
-
+ 
 struct ContentView: View {
     @State private var countries = ["Estonia", "France", "Germany", "Ireland", "Italy", "Nigeria", "Poland", "Spain", "UK", "Ukraine", "US"].shuffled()
         // randomizes the array each time it is countries.shuffled is called
