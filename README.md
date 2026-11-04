@@ -15,11 +15,8 @@ https://ko-fi.com/guntherhammel
 
 
 // Alerts (message:)
-https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/cf0109abea7edd90d55fb4855f7c299d44304f48/Project%202%2C%20Day%201%20(5).swift#L15
-https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/cf0109abea7edd90d55fb4855f7c299d44304f48/Project%202%2C%20Day%201%20(5).swift#L19
-https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/cf0109abea7edd90d55fb4855f7c299d44304f48/Project%202%2C%20Day%201%20(5).swift#L25
-https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/cf0109abea7edd90d55fb4855f7c299d44304f48/Project%202%2C%20Day%201%20(5).swift#L30
-https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/cf0109abea7edd90d55fb4855f7c299d44304f48/Project%202%2C%20Day%201%20(5).swift#L40
+
+https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/cf0109abea7edd90d55fb4855f7c299d44304f48/Project%202%2C%20Day%201%20(5).swift#L19-L43
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/e0b64e51c9befc7cff891d2b314d4c16672489dc/Project%202%2C%20Day%202.swift#L109
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/14e785c2812b88b94ac51bd8394eaa5d68d9fd06/SwiftUI%20Practice%20Problems/Dice%20Rolls%20and%20Stat%20Checks.swift#L128-L130
 
