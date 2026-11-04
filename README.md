@@ -13,8 +13,8 @@ https://ko-fi.com/guntherhammel
 
 *** The first entry for each topic will likely have an explanation (as I understood it at the time) of the topic in general, and later entries will likely have more intricate or complicated code.
 
-[((Alerts (message:)]
-[((Background (.background, .ultraThinMaterial)]
+[(#($Alerts (message:)]
+[(#(Background (.background, .ultraThinMaterial)]
 []
 []
 []
