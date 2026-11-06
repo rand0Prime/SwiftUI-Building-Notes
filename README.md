@@ -66,6 +66,8 @@ https://ko-fi.com/guntherhammel
 
 [.toolbar](#toolbar)
 
+[Views and Modifiers](#views-and-modifiers)
+
 [VStack](#vstack)
 
 [ZStack](#zstack)
@@ -264,6 +266,10 @@ https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/fbc7eacccb25bb2381f4d3
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/97deff25c32c96f12352b818369b18afef74c195/Project%202%2C%20Day%201%20(3).swift#L17-L21
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/975c2615bd8e09c63e67a2dc0280064404b7ab8d/SwiftUI%20Practice%20Problems/Character%20Creator.swift#L89-L94
 
+
+# Views and Modifiers
+https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/342d0524c7b756893e074819ddafcddf69bc1901/Project%203%20-%20ViewsAndModifiers/Project%203%2C%20Day%201%20(1).swift#L10-L13
+https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/342d0524c7b756893e074819ddafcddf69bc1901/Project%203%20-%20ViewsAndModifiers/Project%203%2C%20Day%201%20(1).swift#L25-L29
 
 # ZStack
 
