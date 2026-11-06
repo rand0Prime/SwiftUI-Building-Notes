@@ -268,9 +268,10 @@ https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/975c2615bd8e09c63e67a2
 
 
 # Views and Modifiers
-https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/342d0524c7b756893e074819ddafcddf69bc1901/Project%203%20-%20ViewsAndModifiers/Project%203%2C%20Day%201%20(1).swift#L10-L13
-https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/342d0524c7b756893e074819ddafcddf69bc1901/Project%203%20-%20ViewsAndModifiers/Project%203%2C%20Day%201%20(1).swift#L25-L29
+
+https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/b31afc3e36cf5883db07f50225296a3ff1ed911c/Project%203%20-%20ViewsAndModifiers/Project%203%2C%20Day%201%20(1).swift#L10-L13
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/e45548f683fd3214db4579e1efa6dbb5a3920329/Project%203%20-%20ViewsAndModifiers/Project%203%2C%20Day%201%20(1).swift#L28-L34
+https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/b31afc3e36cf5883db07f50225296a3ff1ed911c/Project%203%20-%20ViewsAndModifiers/Project%203%2C%20Day%201%20(1).swift#L37-L40
 
 # ZStack
 
