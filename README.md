@@ -13,7 +13,7 @@ https://ko-fi.com/guntherhammel
 
 *** The first entry for each topic will likely have an explanation (as I understood it at the time) of the topic in general, and later entries will likely have more intricate or complicated code.
 
-
+# Table of Contents
 
 [Alerts, message:](#alerts-message)
 
@@ -75,7 +75,7 @@ https://ko-fi.com/guntherhammel
 [ZStack](#zstack)
 
 
-# Alerts, message:
+# Alerts, message: [back to top](#table-of-contents)
 
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/cf0109abea7edd90d55fb4855f7c299d44304f48/Project%202%2C%20Day%201%20(5).swift#L19-L43
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/14e785c2812b88b94ac51bd8394eaa5d68d9fd06/SwiftUI%20Practice%20Problems/Dice%20Rolls%20and%20Stat%20Checks.swift#L128-L130
