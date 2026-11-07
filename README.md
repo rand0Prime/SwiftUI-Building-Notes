@@ -23,6 +23,8 @@ https://ko-fi.com/guntherhammel
 
 [Color (color.secondary, custom colors)](#color-colorsecondary-custom-colors)
 
+[ForEach](#content)
+
 [@FocusState (.isFocused)](#focusstate-isfocused)
 
 [ForEach](#foreach)
@@ -66,7 +68,7 @@ https://ko-fi.com/guntherhammel
 
 [.toolbar](#toolbar)
 
-[Views and Modifiers](#views-and-modifiers)
+[Views and Modifiers](#views-and-modifiers-custom-modifiers-modifier-extension)
 
 [VStack](#vstack)
 
@@ -106,6 +108,12 @@ https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/14e785c2812b88b94ac51b
 # Color (color.secondary, custom colors)
 
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/1ec5f3a43f2a11266aad747c485ac522b705330f/Project%202%2C%20Day%201%20(2).swift#L18-L30
+
+
+# Content
+
+https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/61ccc8c4ef8107e38fdd27400491715614c0e267/Project%203%20-%20ViewsAndModifiers/Project%203%2C%20Day%201%20(4).swift#L22-L31
+https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/61ccc8c4ef8107e38fdd27400491715614c0e267/Project%203%20-%20ViewsAndModifiers/Project%203%2C%20Day%201%20(4).swift#L37-L42
 
 
 # @FocusState (.isFocused)
@@ -267,15 +275,29 @@ https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/97deff25c32c96f12352b8
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/975c2615bd8e09c63e67a2dc0280064404b7ab8d/SwiftUI%20Practice%20Problems/Character%20Creator.swift#L89-L94
 
 
-# Views and Modifiers
+# Views and Modifiers (custom modifiers, modifier extension)
 
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/b31afc3e36cf5883db07f50225296a3ff1ed911c/Project%203%20-%20ViewsAndModifiers/Project%203%2C%20Day%201%20(1).swift#L10-L13
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/e45548f683fd3214db4579e1efa6dbb5a3920329/Project%203%20-%20ViewsAndModifiers/Project%203%2C%20Day%201%20(1).swift#L28-L34
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/b31afc3e36cf5883db07f50225296a3ff1ed911c/Project%203%20-%20ViewsAndModifiers/Project%203%2C%20Day%201%20(1).swift#L37-L40
+https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/9f1786891bf42c4f2f94268be776dee508388948/Project%203%20-%20ViewsAndModifiers/Project%203%2C%20Day%201%20(2).swift#L29-L39
+https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/9f1786891bf42c4f2f94268be776dee508388948/Project%203%20-%20ViewsAndModifiers/Project%203%2C%20Day%201%20(2).swift#L46-L52
+https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/9f1786891bf42c4f2f94268be776dee508388948/Project%203%20-%20ViewsAndModifiers/Project%203%2C%20Day%201%20(2).swift#L56-L58
+https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/9f1786891bf42c4f2f94268be776dee508388948/Project%203%20-%20ViewsAndModifiers/Project%203%2C%20Day%201%20(2).swift#L62-L74
+https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/3a19a903a28fadaccb16fdbbbd49f0dc1c5c9b81/Project%203%20-%20ViewsAndModifiers/Project%203%2C%20Day%201%20(3).swift#L17-L45
+https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/61ccc8c4ef8107e38fdd27400491715614c0e267/Project%203%20-%20ViewsAndModifiers/Project%203%2C%20Day%201%20(4).swift#L17-L20
+https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/61ccc8c4ef8107e38fdd27400491715614c0e267/Project%203%20-%20ViewsAndModifiers/Project%203%2C%20Day%201%20(4).swift#L22-L32
+https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/61ccc8c4ef8107e38fdd27400491715614c0e267/Project%203%20-%20ViewsAndModifiers/Project%203%2C%20Day%201%20(4).swift#L34-L52
+https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/61ccc8c4ef8107e38fdd27400491715614c0e267/Project%203%20-%20ViewsAndModifiers/Project%203%2C%20Day%201%20(4).swift#L54-L59
+https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/61ccc8c4ef8107e38fdd27400491715614c0e267/Project%203%20-%20ViewsAndModifiers/Project%203%2C%20Day%201%20(4).swift#L61-L66
+https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/61ccc8c4ef8107e38fdd27400491715614c0e267/Project%203%20-%20ViewsAndModifiers/Project%203%2C%20Day%201%20(4).swift#L74-L79
+https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/61ccc8c4ef8107e38fdd27400491715614c0e267/Project%203%20-%20ViewsAndModifiers/Project%203%2C%20Day%201%20(4).swift#L81-L90
+
 
 # ZStack
 
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/1ec5f3a43f2a11266aad747c485ac522b705330f/Project%202%2C%20Day%201%20(2).swift#L16-L29
+https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/61ccc8c4ef8107e38fdd27400491715614c0e267/Project%203%20-%20ViewsAndModifiers/Project%203%2C%20Day%201%20(4).swift#L50
 
 
 
