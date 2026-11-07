@@ -75,20 +75,20 @@ https://ko-fi.com/guntherhammel
 [ZStack](#zstack)
 
 
-# Alerts, message: [back to top](#table-of-contents)
+# Alerts, message: [back to top](###table-of-contents)
 
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/cf0109abea7edd90d55fb4855f7c299d44304f48/Project%202%2C%20Day%201%20(5).swift#L19-L43
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/14e785c2812b88b94ac51bd8394eaa5d68d9fd06/SwiftUI%20Practice%20Problems/Dice%20Rolls%20and%20Stat%20Checks.swift#L128-L130
 
 
-# Background (.background, .ultraThinMaterial)
+# Background (.background, .ultraThinMaterial) [back to top](###table-of-contents)
 
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/1ec5f3a43f2a11266aad747c485ac522b705330f/Project%202%2C%20Day%201%20(2).swift#L39-L46
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/92470093421930ccfa7e7c8d7787240c6f0b1f13/Project%202%2C%20Day%201%20(3).swift#L50-L52
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/e0b64e51c9befc7cff891d2b314d4c16672489dc/Project%202%2C%20Day%202.swift#L86-L87
 
 
-# Button (buttonStyle, tint, action:, } label {, .destructive, Label, .cancel)
+# Button (buttonStyle, tint, action:, } label {, .destructive, Label, .cancel) [back to top](###table-of-contents)
 
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/0e52fc6db42dcc9d0ac297cf91ab7833fbc82020/Project%201%2C%20Day%201%20(2)swift.swift#L25-L29
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/4a10684a82ee68f2e1ebbb090097d1aa20f220d3/Project%201%2C%20Day%202%20(1).swift#L115-L121
@@ -105,18 +105,18 @@ https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/975c2615bd8e09c63e67a2
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/14e785c2812b88b94ac51bd8394eaa5d68d9fd06/SwiftUI%20Practice%20Problems/Dice%20Rolls%20and%20Stat%20Checks.swift#L102-L127
 
 
-# Color (color.secondary, custom colors)
+# Color (color.secondary, custom colors) [back to top](###table-of-contents)
 
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/1ec5f3a43f2a11266aad747c485ac522b705330f/Project%202%2C%20Day%201%20(2).swift#L18-L30
 
 
-# Content
+# Content [back to top](###table-of-contents)
 
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/61ccc8c4ef8107e38fdd27400491715614c0e267/Project%203%20-%20ViewsAndModifiers/Project%203%2C%20Day%201%20(4).swift#L22-L31
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/61ccc8c4ef8107e38fdd27400491715614c0e267/Project%203%20-%20ViewsAndModifiers/Project%203%2C%20Day%201%20(4).swift#L37-L42
 
 
-# @FocusState (.isFocused)
+# @FocusState (.isFocused) [back to top](###table-of-contents)
 
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/4a10684a82ee68f2e1ebbb090097d1aa20f220d3/Project%201%2C%20Day%202%20(1).swift#L27-L30
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/4a10684a82ee68f2e1ebbb090097d1aa20f220d3/Project%201%2C%20Day%202%20(1).swift#L57-L74
