@@ -15,7 +15,7 @@
 import SwiftUI
 
 struct CapsuleText: View { // create new struct for making capsule button stype
-    var text: String // expects string to be passed in at scturc callsite
+    var text: String // expects string to be passed in at struct callsite
     
     var body: some View {
         Text(text)
