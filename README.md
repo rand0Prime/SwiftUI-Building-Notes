@@ -68,7 +68,7 @@ https://ko-fi.com/guntherhammel
 
 [.toolbar](#toolbar)
 
-[Views and Modifiers](#views-and-modifiers-custom-modifiers-modifier-extension)
+[Views and Modifiers](#views-and-modifiers-custom-modifiers-modifier-extensions)
 
 [VStack](#vstack)
 
@@ -303,7 +303,7 @@ https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/97deff25c32c96f12352b8
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/975c2615bd8e09c63e67a2dc0280064404b7ab8d/SwiftUI%20Practice%20Problems/Character%20Creator.swift#L89-L94
 
 
-# Views and Modifiers (custom modifiers, modifier extension)
+# Views and Modifiers (custom modifiers, modifier extensions)
 [back to top](#table-of-contents)
 
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/b31afc3e36cf5883db07f50225296a3ff1ed911c/Project%203%20-%20ViewsAndModifiers/Project%203%2C%20Day%201%20(1).swift#L10-L13
