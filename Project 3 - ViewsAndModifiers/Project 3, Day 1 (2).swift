@@ -1,3 +1,5 @@
+// xcode: set sdk=iOS
+
 //
 //  ContentView.swift
 //  Views and Modifiers
@@ -26,7 +28,7 @@ struct ContentView: View {
     
     var spells: some View {
         VStack {
-         Text("Bigby's Hand")
+            Text("Bigby's Hand")
             Text("Fireball")
         }
     }
@@ -62,9 +64,9 @@ struct ContentView: View {
             Text("Rogue")
             Text("Mage")
                 .font(.subheadline)
-                /* font applied to a view (like to this text view) takes priority over any
-                 environment modifiers of the matching type. This is why Mage gets set as
-                 smaller text than the other three text views above it in the same VStack */
+            /* font applied to a view (like to this text view) takes priority over any
+             environment modifiers of the matching type. This is why Mage gets set as
+             smaller text than the other three text views above it in the same VStack */
             
             Spacer()
         }.font(.title)
@@ -79,7 +81,7 @@ struct ContentView: View {
              button is pressed*/
             
             
-        } 
+        }
         .foregroundStyle(useRedText ? .red : .blue)
         Spacer()
     }   /* changes text color based on the state of useRedText boolean:
