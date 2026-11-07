@@ -90,7 +90,8 @@ https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/92470093421930ccfa7e7c
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/e0b64e51c9befc7cff891d2b314d4c16672489dc/Project%202%2C%20Day%202.swift#L86-L87
 
 
-# Button (buttonStyle, tint, action:, } label {, .destructive, Label, .cancel) [back to top](###table-of-contents)
+# Button (buttonStyle, tint, action:, } label {, .destructive, Label, .cancel)
+[back to top](###table-of-contents)
 
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/0e52fc6db42dcc9d0ac297cf91ab7833fbc82020/Project%201%2C%20Day%201%20(2)swift.swift#L25-L29
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/4a10684a82ee68f2e1ebbb090097d1aa20f220d3/Project%201%2C%20Day%202%20(1).swift#L115-L121
@@ -107,18 +108,21 @@ https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/975c2615bd8e09c63e67a2
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/14e785c2812b88b94ac51bd8394eaa5d68d9fd06/SwiftUI%20Practice%20Problems/Dice%20Rolls%20and%20Stat%20Checks.swift#L102-L127
 
 
-# Color (color.secondary, custom colors) [back to top](###table-of-contents)
+# Color (color.secondary, custom colors)
+[back to top](###table-of-contents)
 
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/1ec5f3a43f2a11266aad747c485ac522b705330f/Project%202%2C%20Day%201%20(2).swift#L18-L30
 
 
-# Content [back to top](###table-of-contents)
+# Content
+[back to top](###table-of-contents)
 
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/61ccc8c4ef8107e38fdd27400491715614c0e267/Project%203%20-%20ViewsAndModifiers/Project%203%2C%20Day%201%20(4).swift#L22-L31
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/61ccc8c4ef8107e38fdd27400491715614c0e267/Project%203%20-%20ViewsAndModifiers/Project%203%2C%20Day%201%20(4).swift#L37-L42
 
 
-# @FocusState (.isFocused) [back to top](###table-of-contents)
+# @FocusState (.isFocused)
+[back to top](###table-of-contents)
 
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/4a10684a82ee68f2e1ebbb090097d1aa20f220d3/Project%201%2C%20Day%202%20(1).swift#L27-L30
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/4a10684a82ee68f2e1ebbb090097d1aa20f220d3/Project%201%2C%20Day%202%20(1).swift#L57-L74
@@ -128,6 +132,7 @@ https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/7934c97b7ecde295b2ce14
 
 
 # ForEach
+[back to top](###table-of-contents)
 
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/0e52fc6db42dcc9d0ac297cf91ab7833fbc82020/Project%201%2C%20Day%201%20(4).swift#L21-L29
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/0e52fc6db42dcc9d0ac297cf91ab7833fbc82020/Project%201%2C%20Day%201%20(5).swift#L37-L45
@@ -137,6 +142,7 @@ https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/7934c97b7ecde295b2ce14
 
 
 # .foregroundStyle
+[back to top](###table-of-contents)
 
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/1ec5f3a43f2a11266aad747c485ac522b705330f/Project%202%2C%20Day%201%20(2).swift#L35-L36
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/92470093421930ccfa7e7c8d7787240c6f0b1f13/Project%202%2C%20Day%201%20(3).swift#L48-L49
@@ -144,11 +150,13 @@ https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/841a42c318dc11254629ec
 
 
 # Form
+[back to top](###table-of-contents)
 
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/0e52fc6db42dcc9d0ac297cf91ab7833fbc82020/Project%201%2C%20Day%201%20(1).swift#L22-L23
 
 
 # .frame
+[back to top](###table-of-contents)
 
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/1ec5f3a43f2a11266aad747c485ac522b705330f/Project%202%2C%20Day%201%20(2).swift#L31-L33
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/92470093421930ccfa7e7c8d7787240c6f0b1f13/Project%202%2C%20Day%201%20(3).swift#L46-L47
@@ -157,6 +165,7 @@ https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/e0b64e51c9befc7cff891d
 
 
 # Gradients (Linear, stops:, radial, angular/conical
+[back to top](###table-of-contents)
 
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/97deff25c32c96f12352b818369b18afef74c195/Project%202%2C%20Day%201%20(3).swift#L23-L25
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/97deff25c32c96f12352b818369b18afef74c195/Project%202%2C%20Day%201%20(3).swift#L27-L36
@@ -167,10 +176,12 @@ https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/e0b64e51c9befc7cff891d
 
 
 # HStack
+[back to top](###table-of-contents)
 
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/fbc7eacccb25bb2381f4d3254aa2e45decb0ce3c/Project%202%2C%20Day%201%20(1).swift#L18-L31
 
 # Image (systemName:, decorative, resizable, scaledToFit, .clipShape, .shadow)
+[back to top](###table-of-contents)
 
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/841a42c318dc11254629ec073690417611b62299/Project%202%2C%20Day%201%20(4).swift#L68-L72
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/841a42c318dc11254629ec073690417611b62299/Project%202%2C%20Day%201%20(4).swift#L74-L80
@@ -179,39 +190,46 @@ https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/e0b64e51c9befc7cff891d
 
 
 # .ignoreSafeArea
+[back to top](###table-of-contents)
 
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/1ec5f3a43f2a11266aad747c485ac522b705330f/Project%202%2C%20Day%201%20(2).swift#L47-L53
 
 # .keyboardType
+[back to top](###table-of-contents)
 
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/4a10684a82ee68f2e1ebbb090097d1aa20f220d3/Project%201%2C%20Day%202%20(1).swift#L56-L73
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/7934c97b7ecde295b2ce14eb2d2990c4117bcd9a/Project%202%2C%20Day%201.swift#L40-L41
 
 
 # Navigation Stack
+[back to top](###table-of-contents)
 
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/0e52fc6db42dcc9d0ac297cf91ab7833fbc82020/Project%201%2C%20Day%201%20(1).swift#L19-L21
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/4a10684a82ee68f2e1ebbb090097d1aa20f220d3/Project%201%2C%20Day%202%20(1).swift#L49-L51
 
 
 # navigationTitle (and DisplayMode)
+[back to top](###table-of-contents)
 
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/0e52fc6db42dcc9d0ac297cf91ab7833fbc82020/Project%201%2C%20Day%201%20(1).swift#L45-L50
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/4a10684a82ee68f2e1ebbb090097d1aa20f220d3/Project%201%2C%20Day%202%20(1).swift#L110-L112
 
 
 # .padding
+[back to top](###table-of-contents)
 
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/1ec5f3a43f2a11266aad747c485ac522b705330f/Project%202%2C%20Day%201%20(2).swift#L37-L38
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/e0b64e51c9befc7cff891d2b314d4c16672489dc/Project%202%2C%20Day%202.swift#L84-L85
 
 
 # Preview
+[back to top](###table-of-contents)
 
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/0e52fc6db42dcc9d0ac297cf91ab7833fbc82020/Project%201%2C%20Day%201%20(1).swift#L55-L57
 
 
 # Picker (.pickerStyle)
+[back to top](###table-of-contents)
 
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/0e52fc6db42dcc9d0ac297cf91ab7833fbc82020/Project%201%2C%20Day%201%20(5).swift#L30-L36
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/4a10684a82ee68f2e1ebbb090097d1aa20f220d3/Project%201%2C%20Day%202%20(1).swift#L76-L86
@@ -222,16 +240,19 @@ https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/14e785c2812b88b94ac51b
 
 
 # \.self
+[back to top](###table-of-contents)
 
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/0e52fc6db42dcc9d0ac297cf91ab7833fbc82020/Project%201%2C%20Day%201%20(5).swift#L37-L40
 
 # Section (and header text)
+[back to top](###table-of-contents)
 
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/0e52fc6db42dcc9d0ac297cf91ab7833fbc82020/Project%201%2C%20Day%201%20(1).swift#L25-L26
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/4a10684a82ee68f2e1ebbb090097d1aa20f220d3/Project%201%2C%20Day%202%20(1).swift#L90-L92
 
 
 # Spacer
+[back to top](###table-of-contents)
 
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/fbc7eacccb25bb2381f4d3254aa2e45decb0ce3c/Project%202%2C%20Day%201%20(1).swift#L33-L47
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/e0b64e51c9befc7cff891d2b314d4c16672489dc/Project%202%2C%20Day%202.swift#L39-L40
@@ -239,6 +260,7 @@ https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/e0b64e51c9befc7cff891d
 
 
 # @State
+[back to top](###table-of-contents)
 
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/0e52fc6db42dcc9d0ac297cf91ab7833fbc82020/Project%201%2C%20Day%201%20(2)swift.swift#L16-L22
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/4a10684a82ee68f2e1ebbb090097d1aa20f220d3/Project%201%2C%20Day%202%20(1).swift#L19-L26
@@ -246,11 +268,13 @@ https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/cf0109abea7edd90d55fb4
 
 
 # Switch
+[back to top](###table-of-contents)
 
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/7934c97b7ecde295b2ce14eb2d2990c4117bcd9a/Project%202%2C%20Day%201.swift#L74-L85
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/7934c97b7ecde295b2ce14eb2d2990c4117bcd9a/Project%202%2C%20Day%201.swift#L87-L99
 
 # TextField and Text (.font, .subheadline, .semibold)
+[back to top](###table-of-contents)
 
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/0e52fc6db42dcc9d0ac297cf91ab7833fbc82020/Project%201%2C%20Day%201%20(3).swift#L21-L31
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/0e52fc6db42dcc9d0ac297cf91ab7833fbc82020/Project%201%2C%20Day%201%20(4).swift#L25-L28
@@ -266,11 +290,13 @@ https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/14e785c2812b88b94ac51b
 
 
 # .toolbar
+[back to top](###table-of-contents)
 
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/4a10684a82ee68f2e1ebbb090097d1aa20f220d3/Project%201%2C%20Day%202%20(1).swift#L113-L120
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/7934c97b7ecde295b2ce14eb2d2990c4117bcd9a/Project%202%2C%20Day%201.swift#L58-L64
 
 # VStack
+[back to top](###table-of-contents)
 
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/fbc7eacccb25bb2381f4d3254aa2e45decb0ce3c/Project%202%2C%20Day%201%20(1).swift#L23-L31
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/97deff25c32c96f12352b818369b18afef74c195/Project%202%2C%20Day%201%20(3).swift#L17-L21
@@ -278,6 +304,7 @@ https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/975c2615bd8e09c63e67a2
 
 
 # Views and Modifiers (custom modifiers, modifier extension)
+[back to top](###table-of-contents)
 
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/b31afc3e36cf5883db07f50225296a3ff1ed911c/Project%203%20-%20ViewsAndModifiers/Project%203%2C%20Day%201%20(1).swift#L10-L13
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/e45548f683fd3214db4579e1efa6dbb5a3920329/Project%203%20-%20ViewsAndModifiers/Project%203%2C%20Day%201%20(1).swift#L28-L34
@@ -294,9 +321,11 @@ https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/61ccc8c4ef8107e38fdd27
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/61ccc8c4ef8107e38fdd27400491715614c0e267/Project%203%20-%20ViewsAndModifiers/Project%203%2C%20Day%201%20(4).swift#L61-L66
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/61ccc8c4ef8107e38fdd27400491715614c0e267/Project%203%20-%20ViewsAndModifiers/Project%203%2C%20Day%201%20(4).swift#L74-L79
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/61ccc8c4ef8107e38fdd27400491715614c0e267/Project%203%20-%20ViewsAndModifiers/Project%203%2C%20Day%201%20(4).swift#L81-L90
+[back to top](###table-of-contents)
 
 
 # ZStack
+[back to top](###table-of-contents)
 
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/1ec5f3a43f2a11266aad747c485ac522b705330f/Project%202%2C%20Day%201%20(2).swift#L16-L29
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/61ccc8c4ef8107e38fdd27400491715614c0e267/Project%203%20-%20ViewsAndModifiers/Project%203%2C%20Day%201%20(4).swift#L50
