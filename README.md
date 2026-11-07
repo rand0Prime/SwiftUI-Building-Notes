@@ -23,8 +23,6 @@ https://ko-fi.com/guntherhammel
 
 [Color (color.secondary, custom colors)](#color-colorsecondary-custom-colors)
 
-[ForEach](#content)
-
 [@FocusState (.isFocused)](#focusstate-isfocused)
 
 [ForEach](#foreach)
