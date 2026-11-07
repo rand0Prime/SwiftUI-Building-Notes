@@ -44,6 +44,8 @@ https://ko-fi.com/guntherhammel
 
 [.keyboardType](#keyboardtype)
 
+[Modifier Extensions](#modifier-extensions)
+
 [Navigation Stack](#navigation-stack)
 
 [navigationTitle (and DisplayMode)](#navigationtitle-and-displaymode)
@@ -68,7 +70,7 @@ https://ko-fi.com/guntherhammel
 
 [.toolbar](#toolbar)
 
-[Views and Modifiers](#views-and-modifiers-custom-modifiers-modifier-extensions)
+[Views and Modifiers](#custom-modifiers-view-extensions)
 
 [VStack](#vstack)
 
@@ -201,6 +203,17 @@ https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/4a10684a82ee68f2e1ebbb
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/7934c97b7ecde295b2ce14eb2d2990c4117bcd9a/Project%202%2C%20Day%201.swift#L40-L41
 
 
+# Modifier Extensions
+[back to top](#table-of-contents)
+
+https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/61ccc8c4ef8107e38fdd27400491715614c0e267/Project%203%20-%20ViewsAndModifiers/Project%203%2C%20Day%201%20(4).swift#L54-L59
+https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/61ccc8c4ef8107e38fdd27400491715614c0e267/Project%203%20-%20ViewsAndModifiers/Project%203%2C%20Day%201%20(4).swift#L61-L66
+https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/61ccc8c4ef8107e38fdd27400491715614c0e267/Project%203%20-%20ViewsAndModifiers/Project%203%2C%20Day%201%20(4).swift#L74-L79
+https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/61ccc8c4ef8107e38fdd27400491715614c0e267/Project%203%20-%20ViewsAndModifiers/Project%203%2C%20Day%201%20(4).swift#L81-L90
+https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/f5a228d8249b64b356e37c1b4f3c4cbfc9d0b0b8/SwiftUI%20Practice%20Problems/Character%20Sheet.swift#L55-L58
+https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/f5a228d8249b64b356e37c1b4f3c4cbfc9d0b0b8/SwiftUI%20Practice%20Problems/Character%20Sheet.swift#L80-L92
+
+
 # Navigation Stack
 [back to top](#table-of-contents)
 
@@ -303,7 +316,7 @@ https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/97deff25c32c96f12352b8
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/975c2615bd8e09c63e67a2dc0280064404b7ab8d/SwiftUI%20Practice%20Problems/Character%20Creator.swift#L89-L94
 
 
-# Views and Modifiers (custom modifiers, modifier extensions)
+# Views and Modifiers (custom modifiers, view extensions)
 [back to top](#table-of-contents)
 
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/b31afc3e36cf5883db07f50225296a3ff1ed911c/Project%203%20-%20ViewsAndModifiers/Project%203%2C%20Day%201%20(1).swift#L10-L13
@@ -317,10 +330,9 @@ https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/3a19a903a28fadaccb16fd
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/61ccc8c4ef8107e38fdd27400491715614c0e267/Project%203%20-%20ViewsAndModifiers/Project%203%2C%20Day%201%20(4).swift#L17-L20
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/61ccc8c4ef8107e38fdd27400491715614c0e267/Project%203%20-%20ViewsAndModifiers/Project%203%2C%20Day%201%20(4).swift#L22-L32
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/61ccc8c4ef8107e38fdd27400491715614c0e267/Project%203%20-%20ViewsAndModifiers/Project%203%2C%20Day%201%20(4).swift#L34-L52
-https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/61ccc8c4ef8107e38fdd27400491715614c0e267/Project%203%20-%20ViewsAndModifiers/Project%203%2C%20Day%201%20(4).swift#L54-L59
-https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/61ccc8c4ef8107e38fdd27400491715614c0e267/Project%203%20-%20ViewsAndModifiers/Project%203%2C%20Day%201%20(4).swift#L61-L66
-https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/61ccc8c4ef8107e38fdd27400491715614c0e267/Project%203%20-%20ViewsAndModifiers/Project%203%2C%20Day%201%20(4).swift#L74-L79
-https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/61ccc8c4ef8107e38fdd27400491715614c0e267/Project%203%20-%20ViewsAndModifiers/Project%203%2C%20Day%201%20(4).swift#L81-L90
+https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/f5a228d8249b64b356e37c1b4f3c4cbfc9d0b0b8/SwiftUI%20Practice%20Problems/Character%20Sheet.swift#L32-L40
+https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/f5a228d8249b64b356e37c1b4f3c4cbfc9d0b0b8/SwiftUI%20Practice%20Problems/Character%20Sheet.swift#L44-L51
+
 [back to top](#table-of-contents)
 
 
