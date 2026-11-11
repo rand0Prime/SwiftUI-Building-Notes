@@ -147,6 +147,7 @@ https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/7934c97b7ecde295b2ce14
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/1ec5f3a43f2a11266aad747c485ac522b705330f/Project%202%2C%20Day%201%20(2).swift#L35-L36
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/92470093421930ccfa7e7c8d7787240c6f0b1f13/Project%202%2C%20Day%201%20(3).swift#L48-L49
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/841a42c318dc11254629ec073690417611b62299/Project%202%2C%20Day%201%20(4).swift#L44-L46
+https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/36208f91c2a1868f5f2d3e13ecff7a35d2ca8ab6/SwiftUI%20Practice%20Problems/Randomized%20Loot%20Chest.swift#L102-L104
 
 
 # Form
@@ -210,6 +211,7 @@ https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/61ccc8c4ef8107e38fdd27
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/61ccc8c4ef8107e38fdd27400491715614c0e267/Project%203%20-%20ViewsAndModifiers/Project%203%2C%20Day%201%20(4).swift#L81-L90
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/f5a228d8249b64b356e37c1b4f3c4cbfc9d0b0b8/SwiftUI%20Practice%20Problems/Character%20Sheet.swift#L55-L58
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/f5a228d8249b64b356e37c1b4f3c4cbfc9d0b0b8/SwiftUI%20Practice%20Problems/Character%20Sheet.swift#L80-L92
+https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/36208f91c2a1868f5f2d3e13ecff7a35d2ca8ab6/SwiftUI%20Practice%20Problems/Randomized%20Loot%20Chest.swift#L107-L110
 
 
 # Navigation Stack
@@ -276,6 +278,7 @@ https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/e0b64e51c9befc7cff891d
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/0e52fc6db42dcc9d0ac297cf91ab7833fbc82020/Project%201%2C%20Day%201%20(2)swift.swift#L16-L22
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/4a10684a82ee68f2e1ebbb090097d1aa20f220d3/Project%201%2C%20Day%202%20(1).swift#L19-L26
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/cf0109abea7edd90d55fb4855f7c299d44304f48/Project%202%2C%20Day%201%20(5).swift#L15-L16
+https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/36208f91c2a1868f5f2d3e13ecff7a35d2ca8ab6/SwiftUI%20Practice%20Problems/Randomized%20Loot%20Chest.swift#L137-L139
 
 
 # Switch
