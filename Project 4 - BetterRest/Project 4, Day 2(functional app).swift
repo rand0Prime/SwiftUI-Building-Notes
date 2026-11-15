@@ -58,6 +58,8 @@ struct ContentView: View {
                         .font(.headline)
                     
                     Stepper("^[\(coffeeAmount) cup](inflect: true)", value: $coffeeAmount, in: 1...20)
+                    /* syntax of "^[... ](inflect: true)" auto-adds an 's' to make an item plural
+                     if its preceding value is greater than 1 */
                 } // end third group
             } // end form
             .navigationTitle("BetterRest  ")
