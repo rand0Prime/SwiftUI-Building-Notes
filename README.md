@@ -40,11 +40,14 @@ https://ko-fi.com/guntherhammel
 [.frame](#frame)
 
 [Gradients (Linear, stops:, radial, angular/conical](#gradients-linear-stops-radial-angularconical)
+
 [HStack](#hstack)
+
+[.ignoreSafeArea](#ignoresafearea)
 
 [Image (systemName:, decorative, resizable, scaledToFit, .clipShape, .shadow)](#image-systemname-decorative-resizable-scaledtofit-clipshape-shadow)
 
-[.ignoreSafeArea](#ignoresafearea)
+[Inflect (String plurality)](#inflect-string-plurality)
 
 [.keyboardType](#keyboardtype)
 
@@ -211,6 +214,13 @@ https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/e0b64e51c9befc7cff891d
 
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/fbc7eacccb25bb2381f4d3254aa2e45decb0ce3c/Project%202%2C%20Day%201%20(1).swift#L18-L31
 
+
+# .ignoreSafeArea
+[back to top](#table-of-contents)
+
+https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/1ec5f3a43f2a11266aad747c485ac522b705330f/Project%202%2C%20Day%201%20(2).swift#L47-L53
+
+
 # Image (systemName:, decorative, resizable, scaledToFit, .clipShape, .shadow)
 [back to top](#table-of-contents)
 
@@ -220,10 +230,10 @@ https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/e0b64e51c9befc7cff891d
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/e0b64e51c9befc7cff891d2b314d4c16672489dc/Project%202%2C%20Day%202.swift#L88-L89
 
 
-# .ignoreSafeArea
+# Inflect (String plurality)
 [back to top](#table-of-contents)
+https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/b72323e9bea09e021b9334aa1b39d31d11ed08e3/Project%204%20-%20BetterRest/Project%204%2C%20Day%202(functional%20app).swift#L60-L62
 
-https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/1ec5f3a43f2a11266aad747c485ac522b705330f/Project%202%2C%20Day%201%20(2).swift#L47-L53
 
 # .keyboardType
 [back to top](#table-of-contents)
