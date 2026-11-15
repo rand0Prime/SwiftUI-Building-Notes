@@ -23,6 +23,8 @@ https://ko-fi.com/guntherhammel
 
 [Color (color.secondary, custom colors)](#color-colorsecondary-custom-colors)
 
+[CoreGL](#coregl)
+
 [Date, Time, Date Picker, Date Modifiers](#date-time-date-picker-date-modifiers)
 
 [@FocusState (.isFocused)](#focusstate-isfocused)
@@ -125,6 +127,14 @@ https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/61ccc8c4ef8107e38fdd27
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/61ccc8c4ef8107e38fdd27400491715614c0e267/Project%203%20-%20ViewsAndModifiers/Project%203%2C%20Day%201%20(4).swift#L37-L42
 
 
+# CoreGL
+[back to top](#table-of-contents)
+
+https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/7ecc3153b56944b219e33a0f0a947d111e3dfb00/Project%204%20-%20BetterRest/Project%204%2C%20Day%202(functional%20app).swift#L12
+https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/7ecc3153b56944b219e33a0f0a947d111e3dfb00/Project%204%20-%20BetterRest/Project%204%2C%20Day%202(functional%20app).swift#L77-L80
+https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/7ecc3153b56944b219e33a0f0a947d111e3dfb00/Project%204%20-%20BetterRest/Project%204%2C%20Day%202(functional%20app).swift#L95-L105
+
+
 # Date, Time, Date Picker, Date Modifiers
 [back to top](#table-of-contents)
 
@@ -133,6 +143,10 @@ https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/e712eb67ca46197c081a6a
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/e712eb67ca46197c081a6a1b43ae72d222a8b737/Project%204%20-%20BetterRest/Project%204%2C%20Day%201(1).swift#L45-L55
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/e712eb67ca46197c081a6a1b43ae72d222a8b737/Project%204%20-%20BetterRest/Project%204%2C%20Day%201(1).swift#L58-L66
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/e712eb67ca46197c081a6a1b43ae72d222a8b737/Project%204%20-%20BetterRest/Project%204%2C%20Day%201(1).swift#L68-L85
+https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/7ecc3153b56944b219e33a0f0a947d111e3dfb00/Project%204%20-%20BetterRest/Project%204%2C%20Day%202(functional%20app).swift#L25-L35
+https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/7ecc3153b56944b219e33a0f0a947d111e3dfb00/Project%204%20-%20BetterRest/Project%204%2C%20Day%202(functional%20app).swift#L45-L46
+https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/7ecc3153b56944b219e33a0f0a947d111e3dfb00/Project%204%20-%20BetterRest/Project%204%2C%20Day%202(functional%20app).swift#L82-L93
+https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/7ecc3153b56944b219e33a0f0a947d111e3dfb00/Project%204%20-%20BetterRest/Project%204%2C%20Day%202(functional%20app).swift#L102-L105
 
 
 # @FocusState (.isFocused)
@@ -327,6 +341,7 @@ https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/14e785c2812b88b94ac51b
 
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/4a10684a82ee68f2e1ebbb090097d1aa20f220d3/Project%201%2C%20Day%202%20(1).swift#L113-L120
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/7934c97b7ecde295b2ce14eb2d2990c4117bcd9a/Project%202%2C%20Day%201.swift#L58-L64
+https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/7ecc3153b56944b219e33a0f0a947d111e3dfb00/Project%204%20-%20BetterRest/Project%204%2C%20Day%202(functional%20app).swift#L64-L66
 
 # VStack
 [back to top](#table-of-contents)
