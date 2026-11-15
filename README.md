@@ -23,6 +23,8 @@ https://ko-fi.com/guntherhammel
 
 [Color (color.secondary, custom colors)](#color-colorsecondary-custom-colors)
 
+[Content](#content)
+
 [CoreGL](#coregl)
 
 [Date, Time, Date Picker, Date Modifiers](#date-time-date-picker-date-modifiers)
