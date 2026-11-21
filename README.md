@@ -249,6 +249,7 @@ https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/61ccc8c4ef8107e38fdd27
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/f5a228d8249b64b356e37c1b4f3c4cbfc9d0b0b8/SwiftUI%20Practice%20Problems/Character%20Sheet.swift#L55-L58
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/f5a228d8249b64b356e37c1b4f3c4cbfc9d0b0b8/SwiftUI%20Practice%20Problems/Character%20Sheet.swift#L80-L92
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/36208f91c2a1868f5f2d3e13ecff7a35d2ca8ab6/SwiftUI%20Practice%20Problems/Randomized%20Loot%20Chest.swift#L107-L110
+https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/daf270a5cddfb4b37dee1484bde591663585d09e/SwiftUI%20Practice%20Problems/Rest%20Mechanic.swift#L181-L194
 
 
 # Navigation Stack
@@ -376,6 +377,7 @@ https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/61ccc8c4ef8107e38fdd27
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/61ccc8c4ef8107e38fdd27400491715614c0e267/Project%203%20-%20ViewsAndModifiers/Project%203%2C%20Day%201%20(4).swift#L34-L52
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/f5a228d8249b64b356e37c1b4f3c4cbfc9d0b0b8/SwiftUI%20Practice%20Problems/Character%20Sheet.swift#L32-L40
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/f5a228d8249b64b356e37c1b4f3c4cbfc9d0b0b8/SwiftUI%20Practice%20Problems/Character%20Sheet.swift#L44-L51
+https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/daf270a5cddfb4b37dee1484bde591663585d09e/SwiftUI%20Practice%20Problems/Rest%20Mechanic.swift#L19-L34
 
 [back to top](#table-of-contents)
 
