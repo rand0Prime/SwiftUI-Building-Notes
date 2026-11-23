@@ -16,6 +16,8 @@ Alons-y! */
 
 [Background (.background, .ultraThinMaterial)](#background-background-ultrathinmaterial)
 
+[Bundle](#bundle)
+
 [Button (buttonStyle, tint, action:, } label {, .destructive, Label, .cancel)](#button-buttonstyle-tint-action--label--destructive-label-cancel)
 
 [Color (color.secondary, custom colors)](#color-colorsecondary-custom-colors)
@@ -48,6 +50,8 @@ Alons-y! */
 
 [.keyboardType](#keyboardtype)
 
+[List](#list)
+
 [Modifier Extensions](#modifier-extensions)
 
 [Navigation Stack](#navigation-stack)
@@ -69,6 +73,8 @@ Alons-y! */
 [@State](#state)
 
 [Stepper](#stepper)
+
+[String](#string)
 
 [Switch](#switch)
 
@@ -96,6 +102,12 @@ https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/14e785c2812b88b94ac51b
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/1ec5f3a43f2a11266aad747c485ac522b705330f/Project%202%2C%20Day%201%20(2).swift#L39-L46
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/92470093421930ccfa7e7c8d7787240c6f0b1f13/Project%202%2C%20Day%201%20(3).swift#L50-L52
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/e0b64e51c9befc7cff891d2b314d4c16672489dc/Project%202%2C%20Day%202.swift#L86-L87
+
+
+# Bundle 
+[back to top](#table-of-contents)
+
+https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/52bbbcc32df79d198843f9709a4dd8b2b1778420/Project%205%20-%20WordScramble/Project%205%2C%20Day%201(2).swift#L23-L31
 
 
 # Button (buttonStyle, tint, action:, } label {, .destructive, Label, .cancel)
@@ -239,6 +251,16 @@ https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/4a10684a82ee68f2e1ebbb
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/7934c97b7ecde295b2ce14eb2d2990c4117bcd9a/Project%202%2C%20Day%201.swift#L40-L41
 
 
+# List 
+[back to top](#table-of-contents)
+
+https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/52bbbcc32df79d198843f9709a4dd8b2b1778420/Project%205%20-%20WordScramble/Project%205%2C%20Day%201(1).swift#L17-L22
+https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/52bbbcc32df79d198843f9709a4dd8b2b1778420/Project%205%20-%20WordScramble/Project%205%2C%20Day%201(1).swift#L24-L43
+https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/52bbbcc32df79d198843f9709a4dd8b2b1778420/Project%205%20-%20WordScramble/Project%205%2C%20Day%201(1).swift#L44
+https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/52bbbcc32df79d198843f9709a4dd8b2b1778420/Project%205%20-%20WordScramble/Project%205%2C%20Day%201(1).swift#L46-L50
+https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/52bbbcc32df79d198843f9709a4dd8b2b1778420/Project%205%20-%20WordScramble/Project%205%2C%20Day%201(1).swift#L52-L56
+
+
 # Modifier Extensions
 [back to top](#table-of-contents)
 
@@ -322,6 +344,14 @@ https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/36208f91c2a1868f5f2d3e
 # Stepper
 [back to top](#table-of-contents)
 https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/e712eb67ca46197c081a6a1b43ae72d222a8b737/Project%204%20-%20BetterRest/Project%204%2C%20Day%201(1).swift#L21-L27
+
+# String
+[back to top](#table-of-contents)
+https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/52bbbcc32df79d198843f9709a4dd8b2b1778420/Project%205%20-%20WordScramble/Project%205%2C%20Day%201(3).swift#L23-L28
+https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/52bbbcc32df79d198843f9709a4dd8b2b1778420/Project%205%20-%20WordScramble/Project%205%2C%20Day%201(3).swift#L30-L39
+https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/52bbbcc32df79d198843f9709a4dd8b2b1778420/Project%205%20-%20WordScramble/Project%205%2C%20Day%201(3).swift#L41-L48
+https://github.com/rand0Prime/SwiftUI-Building-Notes/blob/52bbbcc32df79d198843f9709a4dd8b2b1778420/Project%205%20-%20WordScramble/Project%205%2C%20Day%201(3).swift#L51-L67
+
 
 
 # Switch
